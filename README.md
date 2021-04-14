@@ -8,27 +8,27 @@ In the project directory, you can run:
 
 ### `yarn start`
 
-Runs the app in the development mode.\
+Runs the app in the development mode.
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
+The page will reload if you make edits.
 You will also see any lint errors in the console.
 
 ### `yarn test`
 
-Launches the test runner in the interactive watch mode.\
+Launches the test runner in the interactive watch mode.
 
 ### `yarn lint`
 
-Lint entire codebase\
+Lint entire codebase
 
 ### `yarn format`
 
-Formats entire codebase\
+Formats entire codebase
 
 ### `yarn build`
 
-Builds the app for production to the `build` folder.\
+Builds the app for production to the `build` folder.
 
 ### `yarn eject`
 
@@ -43,6 +43,6 @@ Builds the app for production to the `build` folder.\
 -   Having a nice UI using a components library (Bootstrap,Material UI or another)
 -   Divide the application in different pages and use a router
 -   Adding state management if you think is relevant
-    Current app is using context api since the size of the app is not big and we don't need to use redux for state management.
+    (Current app is using context api since the size of the app is not big and we don't need to use redux for state management.)
 -   Show common tools used for you daily development environment (e.g linters, code formatter)
-    Used Eslint, Prettier for linting and code formatting.
+    (Used Eslint, Prettier for linting and code formatting.)
